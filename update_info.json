@@ -1,7 +1,7 @@
 {
   "versions": {
     "aidyc": "27.2",
-    "updater": "2.4"
+    "updater": "2.5"
   },
   "assets": {
     "aidyc": {
@@ -12,8 +12,8 @@
       ]
     },
     "updater": {
-      "zip": "updater_2.4.zip",
-      "tag": "2.4",
+      "zip": "updater_2.5.zip",
+      "tag": "updater-v2.5",
       "padres": [
         "carlos"
       ]
