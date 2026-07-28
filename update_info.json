@@ -1,1 +1,18 @@
-
+{
+    "versions": {
+        "aidyc": "27.1",
+        "updater": "2.3"
+    },
+    "assets": {
+        "aidyc": {
+            "zip": "AidyC_27.1.zip",
+            "tag": "v27.1",
+            "padres": ["carlos"]
+        },
+        "updater": {
+            "zip": "updater_2.3.zip",
+            "tag": "updater-v2.3",
+            "padres": ["carlos"]
+        }
+    }
+}
