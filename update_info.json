@@ -6,9 +6,9 @@
   "assets": {
     "aidyc": {
       "zip": "AidyC_27.2.zip",
-      "tag": "v27.2",
+      "tag": "v27.3",
       "padres": [
-        "todos"
+        "carlos"
       ]
     },
     "updater": {
