@@ -1,6 +1,6 @@
 {
   "versions": {
-    "aidyc": "27.3",
+    "aidyc": "27.4",
     "updater": "2.9"
   },
   "assets": {
@@ -8,7 +8,9 @@
       "zip": "AidyC_27.3.zip",
       "tag": "v27.3",
       "padres": [
-        "carlos", "kevinz", "Reports"
+        "carlos",
+        "kevinz",
+        "Reports"
       ]
     },
     "updater": {
