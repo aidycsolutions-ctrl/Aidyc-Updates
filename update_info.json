@@ -1,6 +1,6 @@
 {
   "versions": {
-    "aidyc": "27.6",
+    "aidyc": "27.8",
     "updater": "2.9"
   },
   "assets": {
@@ -9,7 +9,8 @@
       "tag": "v27.6",
       "padres": [
         "carlos",
-        "Reports", "megaremates"
+        "Reports",
+        "megaremates"
       ]
     },
     "updater": {
