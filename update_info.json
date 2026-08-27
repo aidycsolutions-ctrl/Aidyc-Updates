@@ -5,12 +5,11 @@
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_27.6.zip",
-      "tag": "v27.6",
+      "zip": "AidyC_27.8.zip",
+      "tag": "v27.8",
       "padres": [
         "carlos",
-        "Reports",
-        "megaremates"
+        "Reports"
       ]
     },
     "updater": {
