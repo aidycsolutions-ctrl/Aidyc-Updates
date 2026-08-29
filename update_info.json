@@ -1,11 +1,11 @@
 {
   "versions": {
-    "aidyc": "27.9",
+    "aidyc": "28.0",
     "updater": "2.9"
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_27.9.zip",
+      "zip": "AidyC_28.0.zip",
       "tag": "v27.9",
       "padres": [
         "carlos",
