@@ -5,8 +5,8 @@
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_28.0.zip",
-      "tag": "v28.0",
+      "zip": "AidyC_30.0.zip",
+      "tag": "v30.0",
       "padres": [
         "carlos",
         "Reports"
