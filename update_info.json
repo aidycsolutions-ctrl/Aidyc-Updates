@@ -1,15 +1,14 @@
 {
   "versions": {
-    "aidyc": "30.0",
+    "aidyc": "30.2",
     "updater": "2.9"
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_30.0.zip",
-      "tag": "v30.0",
+      "zip": "AidyC_30.2.zip",
+      "tag": "v30.2",
       "padres": [
-        "carlos",
-        "Reports"
+        "carlos"
       ]
     },
     "updater": {
