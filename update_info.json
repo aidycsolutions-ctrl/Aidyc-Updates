@@ -1,17 +1,16 @@
 {
   "versions": {
-    "aidyc": "30.2",
+    "aidyc": "30.3",
     "updater": "7.2.0"
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_30.2.zip",
-      "tag": "v30.2",
+      "zip": "AidyC_30.3.zip",
+      "tag": "v30.3",
       "padres": [
-        "todos",
-        "prueba",
-        "CandyR"
-      ]
+        "todos"
+      ],
+      "sha256": "5470b3f7c9ce5d6a1c54a964ff04b25fd634f07239e0157bdc5bdf4d9121615c"
     },
     "updater": {
       "zip": "updater_7.2.0.zip",
