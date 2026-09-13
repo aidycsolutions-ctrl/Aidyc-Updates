@@ -15,7 +15,7 @@
       "zip": "updater_2.9.zip",
       "tag": "2.9",
       "padres": [
-        "carlos"
+        "todos", "carlos"
       ]
     }
   }
