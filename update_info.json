@@ -13,13 +13,13 @@
       "sha256": "5470b3f7c9ce5d6a1c54a964ff04b25fd634f07239e0157bdc5bdf4d9121615c"
     },
     "updater": {
-      "zip": "updater_7.2_thin_bridge.zip",
-      "tag": "bridge-thin-v7.2.0",
+      "zip": "updater_7.2_thin_bridge_7.2.1.zip",
+      "tag": "bridge-thin-v7.2.1",
       "padres": [
         "todos",
         "carlos"
       ],
-      "sha256": "efd12b8d17a37f515faabcfa552add0f7327bdbe76b493812ce950889bf2c8b5"
+      "sha256": "e4fb8d2188b6bd476049b5d77715d75535fb72891b744442f0399002c88e8054"
     }
   }
 }
