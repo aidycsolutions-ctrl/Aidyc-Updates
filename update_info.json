@@ -1,7 +1,7 @@
 {
   "versions": {
     "aidyc": "30.3",
-    "updater": "2.9"
+    "updater": "7.2"
   },
   "assets": {
     "aidyc": {
@@ -13,13 +13,13 @@
       "sha256": "5470b3f7c9ce5d6a1c54a964ff04b25fd634f07239e0157bdc5bdf4d9121615c"
     },
     "updater": {
-      "zip": "updater_7.2.0.zip",
-      "tag": "updater-v7.2.0",
+      "zip": "updater_7.2.0_bridge.zip",
+      "tag": "bridge-updater-v7.2.0",
       "padres": [
         "todos",
         "carlos"
       ],
-      "sha256": "524f3479da35414288f6225a99cf7c01c6fba0627e6a38a2dc282f882d89b1ef"
+      "sha256": "3de111093df73cfe997c54b73f97d84f3c2626f852664d2c4a11c90046c33ac7"
     }
   }
 }
