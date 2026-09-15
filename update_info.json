@@ -1,25 +1,26 @@
 {
   "versions": {
     "aidyc": "30.2",
-    "updater": "2.9"
+    "updater": "7.2.0"
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_30.3.zip",
-      "tag": "v30.3",
+      "zip": "AidyC_30.2.zip",
+      "tag": "v30.2",
       "padres": [
-        "todos"
-      ],
-      "sha256": "5470b3f7c9ce5d6a1c54a964ff04b25fd634f07239e0157bdc5bdf4d9121615c"
+        "todos",
+        "prueba",
+        "CandyR"
+      ]
     },
     "updater": {
-      "zip": "updater_7.2_thin_bridge_7.2.3.zip",
-      "tag": "bridge-thin-v7.2.3",
+      "zip": "updater_7.2.0.zip",
+      "tag": "updater-v7.2.0",
       "padres": [
         "todos",
         "carlos"
       ],
-      "sha256": "c3ed3a71f2a8de6a3c181e7a4246751e889968d69e8e8afb37705d1b4592d2ea"
+      "sha256": "524f3479da35414288f6225a99cf7c01c6fba0627e6a38a2dc282f882d89b1ef"
     }
   }
 }
