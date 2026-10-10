@@ -1,16 +1,16 @@
 {
   "versions": {
-    "aidyc": "32.0",
+    "aidyc": "32.1",
     "updater": "2.9"
   },
   "assets": {
     "aidyc": {
-      "zip": "AidyC_32.0.zip",
-      "tag": "v32.0",
+      "zip": "AidyC_32.1.zip",
+      "tag": "v32.1",
       "padres": [
-        "carlos", "Reports"
+        "todos"
       ],
-      "sha256": "4cf4a7b970da6c60ea5ae721a35ba80f541ac31eaae6aebf78e056186db3d43c"
+      "sha256": "9dae1cb726f63f1cfdfd899c119e5de8ba953b78981dbbdad61e143ab87b6d2b"
     },
     "updater": {
       "zip": "updater_7.2.0.zip",
